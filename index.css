@@ -927,7 +927,7 @@ body.cursor-input .custom-cursor-dot   { opacity:0; }
     .hero-graphics    { display: none; } /* Hide matrix on mobile */
 
     .about-grid       { grid-template-columns: 1fr; gap: 2rem; }
-    .photo-frame      { width: 220px; height: 280px; }
+    .photo-frame      { width: 220px; height: 280px; display: block; margin: 0 auto; }
 
     .skills-grid      { grid-template-columns: 1fr; }
 
