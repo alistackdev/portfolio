@@ -1,5 +1,5 @@
 /* ==========================================================================
-   CSS VARIABLES — DARK THEME (default)
+   CSS VARIABLES — DARK THEME 
    ========================================================================== */
 :root {
     --bg-primary:    #030303;
@@ -934,7 +934,7 @@ body.cursor-input .custom-cursor-dot   { opacity:0; }
         width: 220px; 
         height: 280px; 
         display: block;
-        margin: 0 auto; /* Photo ko mobile view par center karne ke liye */
+        margin: 0 auto; 
     }
 
     .skills-grid      { grid-template-columns: 1fr; }
@@ -967,7 +967,7 @@ body.cursor-input .custom-cursor-dot   { opacity:0; }
     .logo { font-size: 0.85rem; }
     .projects-container { gap: 1.5rem; }
     
-    /* 🔴 PEHLE YAHAN display: none; THA, ISAY HUM NE SHOW KAR DIYA HAI */
+   
     .about-photo-wrapper { 
         display: flex; 
         justify-content: center; 
